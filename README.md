@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I'm a Master in Education and researcher
+- 🔭 I'm a Master in Education
 - 🔭 I’m graduate in mathematics and Statistics student
 - 🌱 I’m currently learning **R, Python, SQL**
 - 👯 I’m looking to collaborate on **data science projects**
