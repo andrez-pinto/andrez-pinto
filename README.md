@@ -1,10 +1,7 @@
-<h1 align="center">Hi 👋, I'm Andres</h1>
-
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I'm a Master in Education
-- 🔭 I’m graduate in mathematics and Statistics student
+Hi 👋, my name is Andres, I'm a colombian Statistic e Data Scientist student in love with Data Scientist and applications.
+- 🔭 I'm a Master in Education and graduate in mathematics
 - 🌱 I’m currently learning **R, Python, SQL**
 - 👯 I’m looking to collaborate on **data science projects**
 - 📫 How to reach me **andrespinto0327@gmail.com**
