@@ -1,6 +1,6 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-Hi👋, my name is Andres, I'm a Colombian Math Teacher and Data Science enthusiast. 
+Hi👋, my name is Andres, I'm a Colombian DEV and Data Science enthusiast. 
 
 - 🔭 I'm a Master in Education, graduate in Mathematics and Statistics student
 - 🌱 I’m currently learning **R, Python, SQL**
