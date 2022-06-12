@@ -1,9 +1,9 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-Hi👋, my name is Andres, I'm a Colombian DEV and Data Science enthusiast. 
+Hi👋, my name is Andrés, I'm Colombian and I live in Brazil. 
 
-- 🔭 I'm a Master in Education, graduate in Mathematics and Statistics student
-- 🌱 I’m currently learning **R, Python, SQL**
+- 🔭 I'm Data Analytics Student
+- 🌱 I’m currently learning **Power BI, SQL, Python, R**
 - 👯 I’m looking to collaborate on **data science projects**
 - 📫 How to reach me **andrespinto0327@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/andrez-pinto/](https://www.linkedin.com/in/andrez-pinto/)
