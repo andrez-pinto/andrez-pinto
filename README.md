@@ -2,9 +2,9 @@
 
 Hi👋, my name is Andrés, I'm Colombian and I live in Brazil. 
 
-- 🔭 I'm Data Analytics Student
-- 🌱 I’m currently learning **Power BI, SQL, Python, R**
-- 👯 I’m looking to collaborate on **data science projects**
+- 🔭 I'm Data Analyst 
+- 🌱 I’m currently learning **Power BI, SQL, Python, R, Big Data, AWS**
+- 👯 I’m looking to collaborate on **Data Science Projects**
 - 📫 How to reach me **andrespinto0327@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/andrez-pinto/](https://www.linkedin.com/in/andrez-pinto/)
 
